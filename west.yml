@@ -1,0 +1,10 @@
+mainifest:
+  remotes:
+    - name: gh
+      url-base: https://github.com/ElectroStar
+      
+  projects:
+    - name: component-c
+      remote: gh
+      path: components/comp_c
+      revision: v1.0.0
