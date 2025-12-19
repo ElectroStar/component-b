@@ -6,5 +6,5 @@ manifest:
   projects:
     - name: component-c
       remote: gh
-      path: components/comp_c
+      path: project/components/comp_c
       revision: v1.0.0
