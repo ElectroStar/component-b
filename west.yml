@@ -1,4 +1,4 @@
-mainifest:
+manifest:
   remotes:
     - name: gh
       url-base: https://github.com/ElectroStar
